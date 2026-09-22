@@ -1,0 +1,6 @@
+{
+  "name": "KSRTC Tracker",
+  "description": "Live KSRTC bus tracker featuring animated route radar, real-time stop updates, seat availability, and commuter login interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
